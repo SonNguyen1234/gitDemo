@@ -6,7 +6,8 @@ import javax.swing.JFrame;
 	/**
 	 * @param args
 	 */
-	public class MainGui extends JFrame {
+	
+public class MainGui extends JFrame {
 	public MainGui(){
 		setTitle("git Demo");
 		setPreferredSize(new  Dimension(500,500));
